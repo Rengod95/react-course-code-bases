@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0d7a76e-c795-4994-b877-f7a5cd65c8dd" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Button.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/AuthFinder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/AuthFinder.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/ButtonContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/ButtonContainer.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/InputBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/InputBox.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/InputContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/InputContainer.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/LoginForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/login-components/LoginForm.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoginPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.module.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.module.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/login-components/InputBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/login-components/InputBox.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,21 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Project.color": "052e41",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/in/Documents/react-course-code-bases/login-form",
-    "list.type.of.created.stylesheet": "SCSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/in/Documents/react-course-code-bases/login-form/node_modules/prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;052e41&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/in/Documents/react-course-code-bases/login-form&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/in/Documents/react-course-code-bases/login-form/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/login-components" />
@@ -82,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664799337749</updated>
-      <workItem from="1664799338913" duration="4965000" />
+      <workItem from="1664799338913" duration="12389000" />
+      <workItem from="1664876881095" duration="17000" />
     </task>
     <servers />
   </component>

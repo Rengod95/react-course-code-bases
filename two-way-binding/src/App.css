@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding:0;
+  outline:0;
+  appearance:none;
+  border:0;
+  text-decoration:none;
+  list-style: none;
+  box-sizing: border-box;
+
+}
+
+html{
+  font-size:14px;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  font-size: 14px;
+  background: #f4f4f4;
+  user-select: none;
+  overflow: hidden;
+}
