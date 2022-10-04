@@ -8,11 +8,12 @@ const InputContainer = (props) => {
 
   const emailValidator = (email) => {
     if (String(email).trim().includes("@")) setEmailValidation(true);
-    console.log(emailValidation);
+    else setEmailValidation(false);
   };
 
   const passwordValidator = (pw) => {
     if (pw.trim().length >= 6) setPasswordValidation(true);
+    else setEmailValidation(false);
   };
 
   return (
