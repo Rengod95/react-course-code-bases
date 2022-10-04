@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0d7a76e-c795-4994-b877-f7a5cd65c8dd" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Button.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/AuthFinder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/AuthFinder.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/ButtonContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/ButtonContainer.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/InputBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/InputBox.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/InputContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/InputContainer.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-components/LoginForm.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.module.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Card.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="section-state" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FcldBLeNgMZ0gihHpb4QEDqMEo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "052e41",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/in/Documents/react-course-code-bases/login-form",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/in/Documents/react-course-code-bases/login-form/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/login-components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="c0d7a76e-c795-4994-b877-f7a5cd65c8dd" name="변경" comment="" />
+      <created>1664799337749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664799337749</updated>
+      <workItem from="1664799338913" duration="4965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="컴포넌트_재사용_가능한_단위로_분리하기" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
